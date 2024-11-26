@@ -1,2 +1,2 @@
 # projeto-de-estoque-
-Projeto de banco de dados para agronegócio.
+O banco de dados para o controle de estoque em um cenário de agronegócio.
